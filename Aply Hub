@@ -16,7 +16,7 @@ icon.Position = UDim2.new(0, 20, 0.5, -30)
 
 icon.BackgroundColor3 = Color3.fromRGB(40, 40, 40)
 
-icon.Image = "rbxassetid://1234567890" -- ← вставь сюда свой ImageId
+icon.Image = "rbxassetid://8672002690" -- ← вставь сюда свой ImageId
 
 icon.AutoButtonColor = false
 
